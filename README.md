@@ -5,3 +5,4 @@ push2
 push3
 push4
 push5
+push 6
